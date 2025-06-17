@@ -1,6 +1,6 @@
 # About Me – From Sports Science to Data and Technology
 
-Hi! My name is Tomáš Bůžek, and I’m currently finishing my Master’s degree in **Sports Science**. While my academic background is rooted in human performance, physiology, and biomechanics, I’ve developed a strong passion for **technology**, particularly **data analysis**, **Python programming**, and **innovation**.
+Hi! My name is Tomáš Bůžek, and I’m currently finishing my Master’s degree in **Sports Science**. While my academic background is rooted in human performance, physiology, and biomechanics, I’ve developed a strong passion for **technology**, particularly **data analysis**, **Programming**, and **innovation**.
 
 ---
 
@@ -29,6 +29,7 @@ Although I come from a non-technical field, I’ve actively built skills in:
 
 - **Python** (especially for data analysis and open data exploration)
 - **HTML & CSS** (completed a front-end academy course)
+- **Java** (self-study - chatgpt, IT community)
 - **Cybersecurity** (self-study and concept exploration)
 
 I enjoy working on real-world problems, interpreting data, and turning complex findings into meaningful conclusions. My favorite part of any project is **presenting results**, telling the story behind the numbers, and delivering value to others.
@@ -43,9 +44,9 @@ I'm particularly enthusiastic about:
 ## 🚀 My Goals
 
 I’m looking for opportunities to:
-- **Join real-life tech/data projects** (internship, part-time, or mentorship)
+- **Join real-life tech/data projects/programming** (internship, part-time, or mentorship)
 - **Contribute to something meaningful** while learning
-- Continue growing in **Python development**, **data science**, and eventually project design & leadership
+- Continue growing in **Python development**, **data science**,**Java development** and eventually project design & leadership
 - Possibly pursue a **PhD** focused on human data, technology, and innovation
 
 ---

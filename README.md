@@ -30,6 +30,7 @@ Although I come from a non-technical field, I’ve actively built skills in:
 - **Python** (especially for data analysis and open data exploration)
 - **HTML & CSS** (completed a front-end academy course)
 - **Java** (self-study - chatgpt, IT community)
+- **C++** (self-study)
 - **Cybersecurity** (self-study and concept exploration)
 
 I enjoy working on real-world problems, interpreting data, and turning complex findings into meaningful conclusions. My favorite part of any project is **presenting results**, telling the story behind the numbers, and delivering value to others.

@@ -4,7 +4,7 @@ I'm involved in weightlifting and athletic diagnostics
 
 I'm developing software to expand the diagnostic profile of athletes
 
-I use C++ for computational cores, Java for data processing, and Python for visualizations
+I use C++ for computational cores, Java for data processing, and Python for data analysis and prototyping
 
 I'm a self-taught programmer learning from books and AI tools
 

@@ -1,13 +1,12 @@
-I study at a university with a focus on sports science
+## About
 
-I'm involved in weightlifting and athletic diagnostics
+I am a university student with a focus on sport science, interested in the intersection of athletic diagnostics, biomechanics, and data analysis.
 
-I'm developing software to expand the diagnostic profile of athletes
+My work centers on developing small research-oriented software tools for laboratory-based sports diagnostics, particularly on parsing and combining data from multiple diagnostic modalities. While I have experimented with several technologies, my primary working language is currently Python.
 
-I use C++ for computational cores, Java for data processing, and Python for data analysis and prototyping
+Alongside this, I am working on a research-oriented project focused on the geometric representation of human movement (initially applied to running), with concepts transferable to other movements when grounded in biomechanical principles. This work is developed under the Motus Metrics organization and serves as a proof of concept rather than a production system.
 
-I'm a self-taught programmer learning from books and AI tools
+These repositories represent exploratory and academic projects connected to my diploma thesis and broader research interests, aiming to bridge sport science, computation, and practical understanding.
 
-I’ve explored how force measurement devices work on a theoretical level
-
-I see technology as a way to bridge science, sport, and real-world application
+For academic or research-related inquiries, feel free to contact:
+research@motusmetrics.net
